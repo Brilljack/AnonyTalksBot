@@ -1,4 +1,4 @@
-m_start = "⚡️ SELAMAT DATANG ⚡️\n\n🇮🇩 Halo Gaes Dancok i\n\n🇳🇿 I hope you can make a friend or a partner\n\n💬 untuk mencari teman obrolan gunakan button New Chat"
+m_start = "⚡️ SELAMAT DATANG ⚡️\n\n🇮🇩 Halo test\n\n🇳🇿 I hope you can make a friend or a partner\n\n💬 untuk mencari teman obrolan gunakan button New Chat"
 
 m_is_not_free_users = (
     "❗️ Maaf Anda tidak berada dalam obrolan\n\n❗️ Sorry you are not in chat"
