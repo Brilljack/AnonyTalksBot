@@ -10,13 +10,13 @@ m_play_again = "Apakah Anda Ingin mengobrol dengan orang lain?\n\nDo you want to
 
 m_is_not_user_name = "❌ Maaf, bot kami hanya dapat berkomunikasi jika Anda memiliki nama pengguna\n\n❌ Sorry, our bot can only communicate if you have a username"
 
-m_good_bye = "❌ Kamu telah memberhentikan oborlan ketik /start untuk mencari teman bicara lain\n\n❌ You stop the dialogue type /start to search for a new interlocutor"
+m_good_bye = "❌ Kamu telah memberhentikan obrolan ketik /start untuk mencari teman bicara lain\n\n❌ You stop the dialogue type /start to search for a new interlocutor"
 
 m_disconnect_user = "❌ Maaf lawan bicara anda meninggalkan obrolan! ketik /start untuk mencari teman bicara lain\n\n❌ Sorry your interlocutor left the chat type /start to search for a new interlocutor"
 
 m_failed = "❌ Terjadi kesalahan!\n\n❌ Loss happened"
 
-m_like = "✅ Anda mengerimkan username kepada lawan bicara!\n\n✅ You send the username to the other person"
+m_like = "✅ Anda mengirimkan username kepada lawan bicara!\n\n✅ You send the username to the other person"
 
 m_dislike_user = "Obrolan Telah Berakhir\n\nChat Has Ended"
 
